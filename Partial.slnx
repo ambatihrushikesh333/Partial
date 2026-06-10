@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="ConsoleApp1/Partial2.csproj" />
   <Project Path="Partial/Partial.csproj" />
+  <Project Path="Sealedclass/Sealedclass.csproj" />
 </Solution>
