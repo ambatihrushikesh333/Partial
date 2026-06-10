@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ConsoleApp1/Partial2.csproj" />
+  <Project Path="Partial/Partial.csproj" />
+</Solution>
